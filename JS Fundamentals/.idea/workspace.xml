@@ -14,101 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Towns to JSON.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Towns to JSON.js">
+      <file leaf-file-name="Unique Sequences.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Objects and JSON/Unique Sequences.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Score to HTML.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Score to HTML.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JSON to HTML Table.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/JSON to HTML Table.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sum by Town.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Sum by Town.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="19" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Count Words in a Text.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Count Words in a Text.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Count Words with Maps.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Count Words with Maps.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Population in Towns.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Population in Towns.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="City Markets.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/City Markets.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lowest Prices in Cities.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Lowest Prices in Cities.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Extract Unique Words.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Extract Unique Words.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="221">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -127,14 +37,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Arrays and Matrices - Lab/Process Odd Numbers.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices - Lab/Smallest Two Numbers.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices - Lab/Biggest Element.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices - Lab/Diagonal Sums.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices - Lab/Equal Neighbors.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices/Print Array with Given Delimiter.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices/Print every N-th Element from an Array.js" />
-        <option value="$PROJECT_DIR$/Arrays and Matrices/Add and Remove Elements.js" />
         <option value="$PROJECT_DIR$/Arrays and Matrices/Rotate Array.js" />
         <option value="$PROJECT_DIR$/Arrays and Matrices/Extract Increasing Subsequence from Array.js" />
         <option value="$PROJECT_DIR$/Arrays and Matrices/Sort Array.js" />
@@ -178,6 +80,14 @@
         <option value="$PROJECT_DIR$/Objects and JSON - Lab/City Markets.js" />
         <option value="$PROJECT_DIR$/Objects and JSON - Lab/Lowest Prices in Cities.js" />
         <option value="$PROJECT_DIR$/Objects and JSON - Lab/Extract Unique Words.js" />
+        <option value="$PROJECT_DIR$/Objects and JSON/Heroic Inventory.js" />
+        <option value="$PROJECT_DIR$/Objects and JSON/JSON's Table.js" />
+        <option value="$PROJECT_DIR$/Objects and JSON/Cappy Juice.js" />
+        <option value="$PROJECT_DIR$/Objects and JSON/Store Catalogue.js" />
+        <option value="$PROJECT_DIR$/Objects and JSON/Auto-Engineering Company.js" />
+        <option value="$PROJECT_DIR$/Objects and JSON/System Components.js" />
+        <option value="$PROJECT_DIR$/Objects and JSON/Usernames.js" />
+        <option value="$PROJECT_DIR$/Objects and JSON/Unique Sequences.js" />
       </list>
     </option>
   </component>
@@ -215,11 +125,6 @@
               <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Objects and JSON - Lab" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -247,26 +152,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Word Occurences.js">
-    <configuration name="Capitalize the Words.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Capitalize the Words.js" working-dir="$PROJECT_DIR$/Strings and RegExp" />
-    <configuration name="Capture the Numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Capture the Numbers.js" working-dir="$PROJECT_DIR$/Strings and RegExp" />
-    <configuration name="Ends With.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Ends With.js" working-dir="$PROJECT_DIR$/Strings and RegExp" />
-    <configuration name="Find Variable Names in Sentences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Find Variable Names in Sentences.js" working-dir="$PROJECT_DIR$/Strings and RegExp" />
-    <configuration name="Word Occurences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Word Occurences.js" working-dir="$PROJECT_DIR$/Strings and RegExp" />
+  <component name="RunManager" selected="Node.js.Unique Sequences.js">
+    <configuration name="Auto-Engineering Company.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Auto-Engineering Company.js" working-dir="$PROJECT_DIR$/Objects and JSON" />
+    <configuration name="Cappy Juice.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Cappy Juice.js" working-dir="$PROJECT_DIR$/Objects and JSON" />
+    <configuration name="System Components.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="System Components.js" working-dir="$PROJECT_DIR$/Objects and JSON" />
+    <configuration name="Unique Sequences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Unique Sequences.js" working-dir="$PROJECT_DIR$/Objects and JSON" />
+    <configuration name="Usernames.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Usernames.js" working-dir="$PROJECT_DIR$/Objects and JSON" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.Ends With.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.Capitalize the Words.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Capture the Numbers.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Find Variable Names in Sentences.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.Word Occurences.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Cappy Juice.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Auto-Engineering Company.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.System Components.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Usernames.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Unique Sequences.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Word Occurences.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Find Variable Names in Sentences.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Capture the Numbers.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Capitalize the Words.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.Ends With.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Unique Sequences.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Usernames.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.System Components.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Auto-Engineering Company.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Cappy Juice.js" />
       </list>
     </recent_temporary>
   </component>
@@ -291,23 +196,22 @@
       <workItem from="1527882890848" duration="5994000" />
       <workItem from="1528108921053" duration="7449000" />
       <workItem from="1528118052114" duration="112000" />
-      <workItem from="1528284320321" duration="529000" />
+      <workItem from="1528284320321" duration="13338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60460000" />
+    <option name="totallyTimeSpent" value="73269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5029762" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.49702382" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -329,67 +233,19 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Objects and JSON/System Components.js</url>
+          <line>38</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices - Lab/Process Odd Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices - Lab/Smallest Two Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices - Lab/Diagonal Sums.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices - Lab/Biggest Element.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices - Lab/Equal Neighbors.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Print Array with Given Delimiter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Print every N-th Element from an Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Add and Remove Elements.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Matrices/Rotate Array.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -626,30 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Towns to JSON.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Score to HTML.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/JSON to HTML Table.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Sum by Town.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -674,18 +506,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Population in Towns.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/City Markets.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Extract Unique Words.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -698,10 +530,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Extract Unique Words.js">
+    <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Population in Towns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/JSON to HTML Table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Score to HTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and JSON - Lab/Towns to JSON.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and JSON/Heroic Inventory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and JSON/JSON's Table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and JSON/Cappy Juice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and JSON/Store Catalogue.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and JSON/Auto-Engineering Company.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and JSON/System Components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="56" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and JSON/Usernames.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects and JSON/Unique Sequences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
