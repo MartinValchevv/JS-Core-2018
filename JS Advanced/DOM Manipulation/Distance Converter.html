@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Distance Converter</title>
+    <style>
+        label, input {
+            display: inline-block;
+            width: 5em;
+        }
+
+        label {
+            text-align: right;
+        }
+    </style>
+</head>
+<body onload="attachEventsListeners()">
+<h1>Distance Converter</h1>
+<div>
+    <label for="inputDistance">From:</label>
+    <input type="text" id="inputDistance">
+    <select id="inputUnits">
+        <option value="km">Kilometers</option>
+        <option value="m">Meters</option>
+        <option value="cm">Centimeters</option>
+        <option value="mm">Millimeters</option>
+        <option value="mi">Miles</option>
+        <option value="yrd">Yards</option>
+        <option value="ft">Feet</option>
+        <option value="in">Inches</option>
+    </select>
+    <input type="button" id="convert" value="Convert">
+</div>
+<div>
+    <label for="outputDistance">To:</label>
+    <input type="text" id="outputDistance" disabled="disabled">
+    <select id="outputUnits">
+        <option value="km">Kilometers</option>
+        <option value="m">Meters</option>
+        <option value="cm">Centimeters</option>
+        <option value="mm">Millimeters</option>
+        <option value="mi">Miles</option>
+        <option value="yrd">Yards</option>
+        <option value="ft">Feet</option>
+        <option value="in">Inches</option>
+    </select>
+</div>
+<script>
+    function attachEventsListeners() {
+        document.getElementById('convert').addEventListener('click',() =>{
+            let number = Number(document.getElementById('inputDistance').value);
+            let inChoice = document.getElementById('inputUnits').value;
+            let outChoice = document.getElementById('outputUnits').value;
+            let output = document.getElementById('outputDistance');
+            switch(inChoice){
+                case "km":
+                    number = number * 1000;
+                    break;
+                case "cm":
+                    number = number * 0.01;
+                    break;
+                case "mm":
+                    number = number * 0.001;
+                    break;
+                case "mi":
+                    number = number * 1609.34;
+                    break;
+                case "yrd":
+                    number = number * 0.9144;
+                    break;
+                case "ft":
+                    number = number * 0.3048;
+                    break;
+                case "in":
+                    number = number * 0.0254;
+                    break;
+            }
+            switch(outChoice){
+                case "km":
+                    output.value = number / 1000;
+                    break;
+                case "m":
+                    output.value = number;
+                    break;
+                case "cm":
+                    output.value = number / 0.01;
+                    break;
+                case "mm":
+                    output.value = number / 0.001;
+                    break;
+                case "mi":
+                    output.value = number / 1609.34;
+                    break;
+                case "yrd":
+                    output.value = number / 0.9144;
+                    break;
+                case "ft":
+                    output.value = number / 0.3048;
+                    break;
+                case "in":
+                    output.value = number / 0.0254;
+                    break;
+            }
+        })
+    }
+</script>
+</body>
+</html>
