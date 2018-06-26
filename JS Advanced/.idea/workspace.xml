@@ -13,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Currency Format.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Advanced Functions - Lab/Currency Format.js">
+    <leaf>
+      <file leaf-file-name="Monkey Patcher.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Advanced Functions/Monkey Patcher.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="258">
+              <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -38,8 +38,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DOM Manipulations - Lab/List of Items.html" />
-        <option value="$PROJECT_DIR$/DOM Manipulations - Lab/Add Delete.html" />
         <option value="$PROJECT_DIR$/DOM Manipulations - Lab/Delete from Table.html" />
         <option value="$PROJECT_DIR$/DOM Manipulations - Lab/Stopwatch.html" />
         <option value="$PROJECT_DIR$/DOM Manipulations - Lab/Mouse Gradient.html" />
@@ -82,6 +80,15 @@
         <option value="$PROJECT_DIR$/Advanced Functions - Lab/Aggregates.js" />
         <option value="$PROJECT_DIR$/Advanced Functions - Lab/Command Processor.js" />
         <option value="$PROJECT_DIR$/Advanced Functions - Lab/Currency Format.js" />
+        <option value="$PROJECT_DIR$/Advanced Functions/Sort Array.js" />
+        <option value="$PROJECT_DIR$/Advanced Functions/Argument Info.js" />
+        <option value="$PROJECT_DIR$/Advanced Functions/Functional Sum.js" />
+        <option value="$PROJECT_DIR$/Advanced Functions/Personal BMI.js" />
+        <option value="$PROJECT_DIR$/Advanced Functions/Vector Math.js" />
+        <option value="$PROJECT_DIR$/Advanced Functions/Kepler's Problem.js" />
+        <option value="$PROJECT_DIR$/Advanced Functions/Euclids Algorithm.js" />
+        <option value="$PROJECT_DIR$/Advanced Functions/Breakfast Robot.js" />
+        <option value="$PROJECT_DIR$/Advanced Functions/Monkey Patcher.js" />
       </list>
     </option>
   </component>
@@ -112,7 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -124,12 +130,13 @@
             <path>
               <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Advanced Functions - Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="Advanced Functions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,23 +160,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Currency Format.js">
-    <configuration name="Aggregates.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Aggregates.js" working-dir="$PROJECT_DIR$/Advanced Functions - Lab" />
-    <configuration name="Command Processor.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Command Processor.js" working-dir="$PROJECT_DIR$/Advanced Functions - Lab" />
-    <configuration name="Currency Format.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Currency Format.js" working-dir="$PROJECT_DIR$/Advanced Functions - Lab" />
-    <configuration name="Max Element.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Max Element.js" working-dir="$PROJECT_DIR$/Advanced Functions - Lab" />
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.Max Element.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.Aggregates.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Currency Format.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Command Processor.js" />
+  <component name="RunManager" selected="Node.js.Breakfast Robot.js">
+    <configuration name="Breakfast Robot.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Breakfast Robot.js" working-dir="$PROJECT_DIR$/Advanced Functions" />
+    <configuration name="Euclids Algorithm.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Euclids Algorithm.js" working-dir="$PROJECT_DIR$/Advanced Functions" />
+    <configuration name="Functional Sum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Functional Sum.js" working-dir="$PROJECT_DIR$/Advanced Functions" />
+    <configuration name="Personal BMI.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Personal BMI.js" working-dir="$PROJECT_DIR$/Advanced Functions" />
+    <configuration name="Vector Math.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Vector Math.js" working-dir="$PROJECT_DIR$/Advanced Functions" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Functional Sum.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Personal BMI.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Vector Math.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Euclids Algorithm.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Breakfast Robot.js" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Currency Format.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Command Processor.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Aggregates.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Max Element.js" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Breakfast Robot.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Euclids Algorithm.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Vector Math.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Personal BMI.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Functional Sum.js" />
       </list>
     </recent_temporary>
   </component>
@@ -188,12 +198,14 @@
       <updated>1529236884091</updated>
       <workItem from="1529236885675" duration="13236000" />
       <workItem from="1529612220639" duration="18125000" />
-      <workItem from="1529846597946" duration="3896000" />
+      <workItem from="1529846597946" duration="3945000" />
+      <workItem from="1529948800272" duration="6938000" />
+      <workItem from="1529965525367" duration="6817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35257000" />
+    <option name="totallyTimeSpent" value="49061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -250,54 +262,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jQuery/Form Validation/formValidation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM Manipulations - Lab/List of Items.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="16" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM Manipulations - Lab/Delete from Table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM Manipulations - Lab/Stopwatch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM Manipulations - Lab/Mouse Gradient.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM Manipulations - Lab/Highlight Active.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DOM Manipulations - Lab/Dynamic Validation.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -340,7 +308,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="51" column="19" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -489,7 +456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="45" column="53" lean-forward="true" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -545,7 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
           <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -553,9 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-          <folding>
-            <marker date="1529847814260" expanded="true" signature="1154:1216" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -563,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -571,7 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -579,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -587,6 +546,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Functions/Sort Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Functions/Argument Info.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Functions/Functional Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Functions/Personal BMI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Functions/Vector Math.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Functions/Euclids Algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Functions/Kepler's Problem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Functions/Breakfast Robot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="81" column="69" lean-forward="true" selection-start-line="81" selection-start-column="69" selection-end-line="81" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced Functions/Monkey Patcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding />
         </state>
       </provider>
