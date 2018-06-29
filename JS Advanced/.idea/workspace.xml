@@ -13,18 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Object Inheritance.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Object Composition - Lab/Object Inheritance.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,15 +27,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DOM Manipulation/Subtraction.html" />
-        <option value="$PROJECT_DIR$/DOM Manipulation/Fill Dropdown.html" />
-        <option value="$PROJECT_DIR$/DOM Manipulation/Accordion.html" />
-        <option value="$PROJECT_DIR$/DOM Manipulation/Sections.html" />
-        <option value="$PROJECT_DIR$/DOM Manipulation/Notification.html" />
-        <option value="$PROJECT_DIR$/DOM Manipulation/Time Converter.html" />
-        <option value="$PROJECT_DIR$/DOM Manipulation/Distance Converter.html" />
-        <option value="$PROJECT_DIR$/jQuery - Lab/Text from List/Text from List.html" />
-        <option value="$PROJECT_DIR$/jQuery - Lab/Text from List/extractText.js" />
         <option value="$PROJECT_DIR$/jQuery - Lab/Search in List/Search in List.html" />
         <option value="$PROJECT_DIR$/jQuery - Lab/Search in List/search.js" />
         <option value="$PROJECT_DIR$/jQuery - Lab/Countries Table/initialize-table.js" />
@@ -89,6 +69,15 @@
         <option value="$PROJECT_DIR$/Object Composition - Lab/Order Rectangles.js" />
         <option value="$PROJECT_DIR$/Object Composition - Lab/Object Inheritance.js" />
         <option value="$PROJECT_DIR$/jQuery - Lab/Countries Table/Countries Table.html" />
+        <option value="$PROJECT_DIR$/Object Composition/Construction Crew.js" />
+        <option value="$PROJECT_DIR$/Object Composition/Car Factory.js" />
+        <option value="$PROJECT_DIR$/Object Composition/Sorted List.js" />
+        <option value="$PROJECT_DIR$/Object Composition/jquery-3.1.1.min.js" />
+        <option value="$PROJECT_DIR$/Object Composition/DOM Highlighter.html" />
+        <option value="$PROJECT_DIR$/Object Composition/Extensible Object.js" />
+        <option value="$PROJECT_DIR$/Object Composition/Array extension.js" />
+        <option value="$PROJECT_DIR$/Object Composition/String extension.js" />
+        <option value="$PROJECT_DIR$/Object Composition/Bug Tracker/bug tracker.html" />
       </list>
     </option>
   </component>
@@ -129,12 +118,7 @@
             <path>
               <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="jQuery - Lab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Object Composition - Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="Object Composition" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,6 +137,11 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User.DESKTOP-NSUD2PN\WebstormProjects\JS-Core-2018\JS Advanced\Object Composition" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -165,26 +154,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Breakfast Robot.js">
+  <component name="RunManager" selected="Node.js.Extensible Object.js">
     <configuration name="Breakfast Robot.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Breakfast Robot.js" working-dir="$PROJECT_DIR$/Advanced Functions" />
-    <configuration name="Euclids Algorithm.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Euclids Algorithm.js" working-dir="$PROJECT_DIR$/Advanced Functions" />
-    <configuration name="Functional Sum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Functional Sum.js" working-dir="$PROJECT_DIR$/Advanced Functions" />
-    <configuration name="Personal BMI.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Personal BMI.js" working-dir="$PROJECT_DIR$/Advanced Functions" />
-    <configuration name="Vector Math.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Vector Math.js" working-dir="$PROJECT_DIR$/Advanced Functions" />
+    <configuration name="Car Factory.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Car Factory.js" working-dir="$PROJECT_DIR$/Object Composition" />
+    <configuration name="Construction Crew.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Construction Crew.js" working-dir="$PROJECT_DIR$/Object Composition" />
+    <configuration name="Extensible Object.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Extensible Object.js" working-dir="$PROJECT_DIR$/Object Composition" />
+    <configuration name="Sorted List.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Sorted List.js" working-dir="$PROJECT_DIR$/Object Composition" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.Functional Sum.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.Personal BMI.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Vector Math.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Euclids Algorithm.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.Breakfast Robot.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Breakfast Robot.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Construction Crew.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Car Factory.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Sorted List.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Extensible Object.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Breakfast Robot.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Euclids Algorithm.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Vector Math.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Personal BMI.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.Functional Sum.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Extensible Object.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Sorted List.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Car Factory.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Construction Crew.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Breakfast Robot.js" />
       </list>
     </recent_temporary>
   </component>
@@ -206,23 +195,22 @@
       <workItem from="1529846597946" duration="3945000" />
       <workItem from="1529948800272" duration="6938000" />
       <workItem from="1529965525367" duration="6937000" />
-      <workItem from="1530264403187" duration="2355000" />
+      <workItem from="1530264403187" duration="9769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51536000" />
+    <option name="totallyTimeSpent" value="58950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -268,76 +256,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DOM Manipulation/Sections.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="33" column="28" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM Manipulation/Notification.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="51" column="19" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM Manipulation/Time Converter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="77" column="27" lean-forward="true" selection-start-line="38" selection-start-column="2" selection-end-line="81" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM Manipulation/Distance Converter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="98" column="26" lean-forward="true" selection-start-line="48" selection-start-column="3" selection-end-line="104" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery - Lab/Text from List/extractText.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery - Lab/Search in List/Search in List.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery - Lab/Search in List/search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery - Lab/Countries Table/initialize-table.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="1" lean-forward="false" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery - Lab/Link Buttons/link-buttons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery - Lab/Link Buttons/Link Buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="71" lean-forward="true" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jQuery - Lab/Link Buttons/link-buttons.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -560,6 +478,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="81" column="69" lean-forward="true" selection-start-line="81" selection-start-column="69" selection-end-line="81" selection-end-column="69" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -575,14 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition - Lab/Sum.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -623,6 +534,94 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Composition/Construction Crew.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Composition/Car Factory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Composition - Lab/Sum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Composition/jquery-3.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Composition/Sorted List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Composition/Extensible Object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Composition/Array extension.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Composition/String extension.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="5" lean-forward="false" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Composition/DOM Highlighter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="96" column="4" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Composition/Bug Tracker/bug tracker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="139" column="7" lean-forward="true" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Object Composition/Bug Tracker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
