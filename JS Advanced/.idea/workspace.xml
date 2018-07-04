@@ -13,18 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Cards.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS Classes - Lab/Cards.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,15 +27,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Advanced Functions/Functional Sum.js" />
-        <option value="$PROJECT_DIR$/Advanced Functions/Personal BMI.js" />
-        <option value="$PROJECT_DIR$/Advanced Functions/Vector Math.js" />
-        <option value="$PROJECT_DIR$/Advanced Functions/Kepler's Problem.js" />
-        <option value="$PROJECT_DIR$/Advanced Functions/Euclids Algorithm.js" />
-        <option value="$PROJECT_DIR$/Advanced Functions/Breakfast Robot.js" />
-        <option value="$PROJECT_DIR$/Advanced Functions/Monkey Patcher.js" />
-        <option value="$PROJECT_DIR$/Object Composition - Lab/Sum.html" />
-        <option value="$PROJECT_DIR$/Object Composition - Lab/Fibonacci.js" />
         <option value="$PROJECT_DIR$/Object Composition - Lab/List Processor.js" />
         <option value="$PROJECT_DIR$/Object Composition - Lab/Order Rectangles.js" />
         <option value="$PROJECT_DIR$/Object Composition - Lab/Object Inheritance.js" />
@@ -89,6 +69,15 @@
         <option value="$PROJECT_DIR$/JS Classes - Lab/Circle.js" />
         <option value="$PROJECT_DIR$/JS Classes - Lab/Point Distance.js" />
         <option value="$PROJECT_DIR$/JS Classes - Lab/Cards.js" />
+        <option value="$PROJECT_DIR$/JS Classes/Data Class.js" />
+        <option value="$PROJECT_DIR$/JS Classes/Tickets.js" />
+        <option value="$PROJECT_DIR$/JS Classes/Unity.js" />
+        <option value="$PROJECT_DIR$/JS Classes/Length Limit.js" />
+        <option value="$PROJECT_DIR$/JS Classes/Extensible Class.js" />
+        <option value="$PROJECT_DIR$/JS Classes/Sorted List.js" />
+        <option value="$PROJECT_DIR$/JS Classes/Instance Validation.js" />
+        <option value="$PROJECT_DIR$/JS Classes/View Model.js" />
+        <option value="$PROJECT_DIR$/JS Classes/Custom Form.js" />
       </list>
     </option>
   </component>
@@ -128,8 +117,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,16 +124,23 @@
               <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Classes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Unit Testing/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
@@ -170,12 +164,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Cards.js">
-    <configuration name="Cards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Cards.js" working-dir="$PROJECT_DIR$/JS Classes - Lab" />
-    <configuration name="Circle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Circle.js" working-dir="$PROJECT_DIR$/JS Classes - Lab" />
-    <configuration name="Person Class.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Person Class.js" working-dir="$PROJECT_DIR$/JS Classes - Lab" />
-    <configuration name="Point Distance.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Point Distance.js" working-dir="$PROJECT_DIR$/JS Classes - Lab" />
-    <configuration name="Rectangle Class.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Rectangle Class.js" working-dir="$PROJECT_DIR$/JS Classes - Lab" />
+  <component name="RunManager" selected="Node.js.Extensible Class.js">
+    <configuration name="Data Class.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Data Class.js" working-dir="$PROJECT_DIR$/JS Classes" />
+    <configuration name="Extensible Class.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Extensible Class.js" working-dir="$PROJECT_DIR$/JS Classes" />
+    <configuration name="Length Limit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Length Limit.js" working-dir="$PROJECT_DIR$/JS Classes" />
+    <configuration name="Tickets.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Tickets.js" working-dir="$PROJECT_DIR$/JS Classes" />
+    <configuration name="Unity.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Unity.js" working-dir="$PROJECT_DIR$/JS Classes" />
     <configuration name="MochaTests" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -190,19 +184,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Mocha.MochaTests" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.Rectangle Class.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Person Class.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Circle.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.Point Distance.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.Cards.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Data Class.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Tickets.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Unity.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Length Limit.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.Extensible Class.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Cards.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Point Distance.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Circle.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Person Class.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.Rectangle Class.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Extensible Class.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Length Limit.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Unity.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Tickets.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Data Class.js" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +219,8 @@
       <workItem from="1529948800272" duration="6938000" />
       <workItem from="1529965525367" duration="6937000" />
       <workItem from="1530264403187" duration="10056000" />
-      <workItem from="1530390267501" duration="23465000" />
+      <workItem from="1530390267501" duration="23556000" />
+      <workItem from="1530702301223" duration="3989000" />
     </task>
     <servers />
   </component>
@@ -262,7 +257,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82702000" />
+    <option name="totallyTimeSpent" value="86782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -272,7 +267,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -318,71 +313,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Advanced Functions/Vector Math.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced Functions/Euclids Algorithm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced Functions/Kepler's Problem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced Functions/Breakfast Robot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="81" column="69" lean-forward="true" selection-start-line="81" selection-start-column="69" selection-end-line="81" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced Functions/Monkey Patcher.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery - Lab/Text from List/Text from List.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition - Lab/Fibonacci.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition - Lab/List Processor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object Composition - Lab/Order Rectangles.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jQuery - Lab/Countries Table/Countries Table.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -394,7 +324,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -442,7 +371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -457,7 +385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="96" column="4" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -497,7 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -513,7 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -521,7 +446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="3" lean-forward="false" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -537,7 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="54" column="3" lean-forward="true" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -545,7 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,7 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,7 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -636,13 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="19" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="63" selection-end-column="3" />
-          <folding>
-            <marker date="1530448558928" expanded="true" signature="249:557" ph="..." />
-            <marker date="1530448558928" expanded="true" signature="267:549" ph="..." />
-            <marker date="1530448558928" expanded="true" signature="299:343" ph="..." />
-            <marker date="1530448558928" expanded="true" signature="368:404" ph="..." />
-            <marker date="1530448558928" expanded="true" signature="429:542" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -658,7 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,8 +615,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS Classes - Lab/Cards.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state relative-caret-position="526">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Classes/Data Class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Classes/Tickets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Classes/Unity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Classes/Extensible Class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Classes/Length Limit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Classes/Sorted List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Classes/View Model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Classes/Instance Validation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Classes/Custom Form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="5" lean-forward="false" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
           <folding />
         </state>
       </provider>
