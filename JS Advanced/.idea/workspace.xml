@@ -13,22 +13,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="sumator.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exam - 23 July 2017/02. Sumator Class/sumator.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Contacts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam - 23 July 2017/04. Contacts/Contacts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="187">
+              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+              <folding>
+                <marker date="1531246324957" expanded="true" signature="834:841" ph="..." />
+                <marker date="1531246324957" expanded="true" signature="933:947" ph="..." />
+                <marker date="1531246324957" expanded="true" signature="948:1022" ph="..." />
+                <marker date="1531246324957" expanded="true" signature="955:962" ph="☎" />
+                <marker date="1531246324957" expanded="true" signature="989:996" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exam - 23 July 2017/02. Sumator Class/test.js">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam - 23 July 2017/04. Contacts/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1629">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="115" selection-end-column="2" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#121#128#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contacts.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exam - 23 July 2017/04. Contacts/contacts.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -40,19 +58,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Unit Testing - Lab/Sum of Numbers.js" />
-        <option value="$PROJECT_DIR$/Unit Testing - Lab/test/Sum of Numbers.js" />
-        <option value="$PROJECT_DIR$/Unit Testing - Lab/Check for Symmetry.js" />
-        <option value="$PROJECT_DIR$/Unit Testing - Lab/test/isSymmetricTests.js" />
-        <option value="$PROJECT_DIR$/Unit Testing - Lab/RGB to Hex.js" />
         <option value="$PROJECT_DIR$/Unit Testing - Lab/test/RGB to HexTests.js" />
         <option value="$PROJECT_DIR$/Unit Testing - Lab/Add Subtract.js" />
         <option value="$PROJECT_DIR$/Unit Testing - Lab/test/Add SubtractTests.js" />
@@ -99,6 +112,11 @@
         <option value="$PROJECT_DIR$/Exam - 23 July 2017/01. Select and Print/01. Select and Print.html" />
         <option value="$PROJECT_DIR$/Exam - 23 July 2017/02. Sumator Class/sumator.js" />
         <option value="$PROJECT_DIR$/Exam - 23 July 2017/02. Sumator Class/test.js" />
+        <option value="$PROJECT_DIR$/Exam - 23 July 2017/03. Task/03. Task.js" />
+        <option value="$PROJECT_DIR$/Exam - 23 July 2017/04. Contacts/contact.html" />
+        <option value="$PROJECT_DIR$/Exam - 23 July 2017/04. Contacts/04. Contacts.js" />
+        <option value="$PROJECT_DIR$/Exam - 23 July 2017/04. Contacts/contacts.html" />
+        <option value="$PROJECT_DIR$/Exam - 23 July 2017/04. Contacts/Contacts.js" />
       </list>
     </option>
   </component>
@@ -117,7 +135,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -146,17 +164,6 @@
             <path>
               <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam - 23 July 2017" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam - 23 July 2017" type="462c0819:PsiDirectoryNode" />
-              <item name="02. Sumator Class" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,12 +198,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.MochaTests">
+  <component name="RunManager" selected="Node.js.03. Task.js">
+    <configuration name="03. Task.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03. Task.js" working-dir="$PROJECT_DIR$/Exam - 23 July 2017/03. Task" />
     <configuration name="Extensible Class.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Extensible Class.js" working-dir="$PROJECT_DIR$/JS Classes" />
     <configuration name="Inheriting toString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Inheriting toString.js" working-dir="$PROJECT_DIR$/Prototype Chain - Lab" />
     <configuration name="Length Limit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Length Limit.js" working-dir="$PROJECT_DIR$/JS Classes" />
     <configuration name="Person and Teacher.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Person and Teacher.js" working-dir="$PROJECT_DIR$/Prototype Chain - Lab" />
-    <configuration name="Unity.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Unity.js" working-dir="$PROJECT_DIR$/JS Classes" />
     <configuration name="MochaTests" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -210,19 +217,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Mocha.MochaTests" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.Unity.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Length Limit.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Extensible Class.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.Person and Teacher.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.Inheriting toString.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Length Limit.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Extensible Class.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Person and Teacher.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Inheriting toString.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.03. Task.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Inheriting toString.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Person and Teacher.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Extensible Class.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Length Limit.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.Unity.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.03. Task.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Inheriting toString.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Person and Teacher.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Extensible Class.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Length Limit.js" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +255,8 @@
       <workItem from="1530390267501" duration="23556000" />
       <workItem from="1530702301223" duration="4799000" />
       <workItem from="1530826349174" duration="6201000" />
-      <workItem from="1530983573467" duration="6408000" />
+      <workItem from="1530983573467" duration="6451000" />
+      <workItem from="1531237509217" duration="8053000" />
     </task>
     <servers />
   </component>
@@ -285,18 +293,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100201000" />
+    <option name="totallyTimeSpent" value="108297000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25297618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -342,34 +349,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Unit Testing - Lab/Sum of Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing - Lab/test/Sum of Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="47" column="14" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="52" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing - Lab/Check for Symmetry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit Testing - Lab/test/isSymmetricTests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="3" lean-forward="false" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unit Testing - Lab/RGB to Hex.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -690,10 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="53" column="7" lean-forward="true" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
-          <folding>
-            <element signature="e#764#776#1" expanded="false" />
-            <element signature="e#834#845#1" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,7 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
           <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,8 +689,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exam - 23 July 2017/02. Sumator Class/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1629">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="115" selection-end-column="2" />
+        <state relative-caret-position="458">
+          <caret line="115" column="2" lean-forward="false" selection-start-line="115" selection-start-column="2" selection-end-line="115" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 23 July 2017/03. Task/03. Task.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 23 July 2017/04. Contacts/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#121#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 23 July 2017/04. Contacts/Contacts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <marker date="1531246324957" expanded="true" signature="834:841" ph="..." />
+            <marker date="1531246324957" expanded="true" signature="933:947" ph="..." />
+            <marker date="1531246324957" expanded="true" signature="948:1022" ph="..." />
+            <marker date="1531246324957" expanded="true" signature="955:962" ph="☎" />
+            <marker date="1531246324957" expanded="true" signature="989:996" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 23 July 2017/04. Contacts/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
