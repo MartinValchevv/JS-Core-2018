@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table Builder</title>
+    <style>td,th { background:#DDD; padding:5px }</style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="main"></div>
+<script>
+    function tableBuilder(selector) {
+       function createTable(input) {
+            $(selector).empty()
+           $(selector).append($('<table>'))
+           let tr = $('<tr>')
+           for (let element of input) {
+               tr.append($('<th>').text(element))
+           }
+           tr.append("<th>Action</th>").appendTo($(selector + " table"));
+       }
+        function fillData(matrix) {
+            for (let arr of matrix) {
+                let tr = $("<tr>");
+                for (let e of arr) {
+                    tr.append($(`<td>`).text(e))
+                }
+                tr.append($("<td>")
+                    .append($("<button>Delete</button>"))
+                    .on("click", deleteFunc))
+                    .appendTo($(selector + " table"));
+            }
+        }
+        return {createTable, fillData};
+
+        function deleteFunc() {
+            $(this).parent().remove()
+        }
+    }
+</script>
+<script>
+    $(function() {
+        let builder = tableBuilder("#main");
+        builder.createTable(['Name', 'Town']);
+        builder.fillData([
+            ['Maria', 'Sofia'],
+            ['Kiril', 'Varna'],
+            ['Ani <new>', 'Ruse'],
+        ]);
+    });
+</script>
+</body>
+</html>
