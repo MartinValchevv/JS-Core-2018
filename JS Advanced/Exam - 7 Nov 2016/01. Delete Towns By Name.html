@@ -19,14 +19,22 @@
 <div id="result"></div>
 <script>
     function attachEvents() {
-       let towns = $('#towns');
-       let input = $('#townName');
-       let btnDelete = $('#btnDelete');
-       let arrTown = [];
-
-        for (let town of towns) {
-            arrTown.push(town);
-        }
+      $('#btnDelete').click(function () {
+          let towns = $('#towns option')
+          let townName = $('#townName').val()
+          let flag = false
+          for (let element of towns) {
+              if ($(element).text() === townName) {
+                  $(element).remove()
+                  $('#result').text(`${townName} deleted.`)
+                  flag = true
+              }
+          }
+          if (!flag) {
+              $("#result").text(`${townName} not found.`);
+          }
+          $("#townName").val("");
+      })
     }
 </script>
 </body>
