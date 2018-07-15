@@ -14,12 +14,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Book Collection.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exam - 15 July 2018/03. Book Collection/Book Collection.js">
+      <file leaf-file-name="Online Shop.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exam - 15 July 2018/04. Online Shop/Online Shop.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="611">
+              <caret line="70" column="28" lean-forward="true" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solution.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exam - 15 July 2018/04. Online Shop/solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="51" column="6" lean-forward="false" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+              <folding>
+                <marker date="1531689896627" expanded="true" signature="115:958" ph="..." />
+                <marker date="1531689896627" expanded="true" signature="650:664" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -38,8 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Prototype Chain/03. Posts.js" />
-        <option value="$PROJECT_DIR$/Prototype Chain/04. Elemelons.js" />
         <option value="$PROJECT_DIR$/Prototype Chain/06. Computer.js" />
         <option value="$PROJECT_DIR$/Prototype Chain/07. Mixins.js" />
         <option value="$PROJECT_DIR$/Prototype Chain/05. C# Console/C# Console.js" />
@@ -86,9 +97,11 @@
         <option value="$PROJECT_DIR$/Exam - 31 Oct 2016/04. Title Bar/func.js" />
         <option value="$PROJECT_DIR$/Exam - 15 July 2018/02. Calculator Class/Calculator Class.js" />
         <option value="$PROJECT_DIR$/Exam - 5 Sept 2017/02. String Builder/unitTests.js" />
-        <option value="$PROJECT_DIR$/Exam - 15 July 2018/03. Book Collection/Book Collection.js" />
         <option value="$PROJECT_DIR$/Exam - 15 July 2018/02. Calculator Class/test.js" />
         <option value="$PROJECT_DIR$/Exam - 15 July 2018/01. Notes/Notes.html" />
+        <option value="$PROJECT_DIR$/Exam - 15 July 2018/03. Book Collection/Book Collection.js" />
+        <option value="$PROJECT_DIR$/Exam - 15 July 2018/04. Online Shop/Online Shop.html" />
+        <option value="$PROJECT_DIR$/Exam - 15 July 2018/04. Online Shop/solution.js" />
       </list>
     </option>
   </component>
@@ -107,7 +120,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="35" />
     <option name="y" value="47" />
     <option name="width" value="1346" />
@@ -142,12 +155,6 @@
               <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="Exam - 15 July 2018" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam - 15 July 2018" type="462c0819:PsiDirectoryNode" />
-              <item name="03. Book Collection" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -181,8 +188,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.MochaTests">
-    <configuration name="Line Manager.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Line Manager.js" working-dir="$PROJECT_DIR$/Exam Prep - 26 Apr 2018/03. Line Manager" />
+  <component name="RunManager" selected="Node.js.Book Collection.js">
+    <configuration name="Book Collection.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Book Collection.js" working-dir="$PROJECT_DIR$/Exam - 15 July 2018/03. Book Collection" />
     <configuration name="Player.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Player.js" working-dir="$PROJECT_DIR$/Exam - 19 Dec 2016/03. Player" />
     <configuration name="Repository.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Repository.js" working-dir="$PROJECT_DIR$/Exam - 5 Sept 2017/03. Repository" />
     <configuration name="Storm Watcher.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Storm Watcher.js" working-dir="$PROJECT_DIR$/Exam - 31 Oct 2016/03. Storm Watcher" />
@@ -200,19 +207,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Mocha.MochaTests" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.Line Manager.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Trainin Course.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Player.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.Repository.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.Storm Watcher.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Trainin Course.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Player.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Repository.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Storm Watcher.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.Book Collection.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Storm Watcher.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Repository.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Player.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Trainin Course.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.Line Manager.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Book Collection.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Storm Watcher.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Repository.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Player.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Trainin Course.js" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +251,7 @@
       <workItem from="1531401742482" duration="11054000" />
       <workItem from="1531554309262" duration="13749000" />
       <workItem from="1531633742670" duration="21429000" />
-      <workItem from="1531663739372" duration="4314000" />
+      <workItem from="1531663739372" duration="12949000" />
     </task>
     <servers />
   </component>
@@ -281,10 +288,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177282000" />
+    <option name="totallyTimeSpent" value="185917000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25297618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -339,21 +346,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exam Prep - 26 Apr 2018/02. Subscription Card/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2226">
-          <caret line="139" column="6" lean-forward="false" selection-start-line="139" selection-start-column="6" selection-end-line="139" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam Prep - 26 Apr 2018/02. Subscription Card/Subscription Card.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exam Prep - 26 Apr 2018/03. Line Manager/Line Manager.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-510">
@@ -391,14 +383,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exam - 7 Nov 2016/03. Training Course/Trainin Course.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exam - 19 Dec 2016/02. Add Left  Right  Clear in List/list-add-left-right-clear.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -423,14 +407,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/JS Advanced Retake Exam - 5 Sept 2017/c_repository/c_repository.js" />
-    <entry file="file://$PROJECT_DIR$/Exam - 5 Sept 2017/03. Repository/Repository.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/JS Advanced Retake Exam - 5 Sept 2017/solution.js" />
     <entry file="file://$PROJECT_DIR$/Exam - 5 Sept 2017/04. Dialog/solve.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -679,11 +655,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 5 Sept 2017/03. Repository/Repository.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 7 Nov 2016/03. Training Course/Trainin Course.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="30" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exam - 15 July 2018/03. Book Collection/Book Collection.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="1292">
+          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 15 July 2018/04. Online Shop/Online Shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="70" column="28" lean-forward="true" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 15 July 2018/04. Online Shop/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="51" column="6" lean-forward="false" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+          <folding>
+            <marker date="1531689896627" expanded="true" signature="115:958" ph="..." />
+            <marker date="1531689896627" expanded="true" signature="650:664" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
