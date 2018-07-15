@@ -10,7 +10,7 @@ describe('StringBuilder UnitTest', function () {
     it('it should have intialiazed all method', function () {
         expect(Object.getPrototypeOf(builder).hasOwnProperty('append')).to.be.equal(true)
         expect(Object.getPrototypeOf(builder).hasOwnProperty('prepend')).to.be.equal(true)
-        expect(Object.getPrototypeOf(builder).hasOwnProperty('remove')).to.be.equal(true)
+        expect(Object.getPrototypeOf(builder).hasOwnProperty('toString')).to.be.equal(true)
         expect(Object.getPrototypeOf(builder).hasOwnProperty('remove')).to.be.equal(true)
     })
     it('return same string', function () {
