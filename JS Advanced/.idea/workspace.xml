@@ -14,51 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modules/04. Inheritance/app.js">
+      <file leaf-file-name="Book Collection.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exam - 15 July 2018 - My/03. Book Collection/Book Collection.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dog.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modules/04. Inheritance/dog.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="entity.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modules/04. Inheritance/entity.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="person.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modules/04. Inheritance/person.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="student.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Modules/04. Inheritance/student.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="1428">
+              <caret line="84" column="1" lean-forward="false" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -78,7 +38,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exam - 23 July 2017/04. Contacts/Contacts.js" />
         <option value="$PROJECT_DIR$/Exam Prep 13 Nov 2016/01. Add  Remove Towns/AddRemove.html" />
         <option value="$PROJECT_DIR$/Exam Prep 13 Nov 2016/02. Add Swap Shift Left Right in List/list-add-swap-shift-left-right.js" />
         <option value="$PROJECT_DIR$/Exam Prep 13 Nov 2016/02. Add Swap Shift Left Right in List/test.js" />
@@ -129,6 +88,7 @@
         <option value="$PROJECT_DIR$/Modules/04. Inheritance/entity.js" />
         <option value="$PROJECT_DIR$/Modules/04. Inheritance/person.js" />
         <option value="$PROJECT_DIR$/Modules/04. Inheritance/student.js" />
+        <option value="$PROJECT_DIR$/Exam - 15 July 2018 - My/03. Book Collection/Book Collection.js" />
       </list>
     </option>
   </component>
@@ -147,7 +107,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="35" />
     <option name="y" value="47" />
     <option name="width" value="1346" />
@@ -176,11 +136,6 @@
             <path>
               <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Modules" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -278,7 +233,7 @@
       <workItem from="1531401742482" duration="11054000" />
       <workItem from="1531554309262" duration="13749000" />
       <workItem from="1531633742670" duration="21429000" />
-      <workItem from="1531663739372" duration="14923000" />
+      <workItem from="1531663739372" duration="16643000" />
     </task>
     <servers />
   </component>
@@ -315,10 +270,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187891000" />
+    <option name="totallyTimeSpent" value="189611000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25297618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -373,29 +328,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exam - 5 Sept 2017/04. Dialog/Dialog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/01. Summary_HTML Skeleton.html" />
-    <entry file="file://$PROJECT_DIR$/Exam - 31 Oct 2016/02. Sorted List/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="92" column="3" lean-forward="false" selection-start-line="92" selection-start-column="3" selection-end-line="92" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam - 31 Oct 2016/02. Sorted List/Sorted List.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/03. Storm Watcher_Авторско решение + Тестове/solution.js" />
     <entry file="file://$USER_HOME$/Desktop/04. Title Bar_HTML Skeleton.html" />
     <entry file="file://$PROJECT_DIR$/Exam - 31 Oct 2016/04. Title Bar/func.js">
@@ -648,10 +580,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="51" column="6" lean-forward="false" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-          <folding>
-            <marker date="1531689896627" expanded="true" signature="115:958" ph="..." />
-            <marker date="1531689896627" expanded="true" signature="650:664" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -746,7 +675,42 @@
     <entry file="file://$PROJECT_DIR$/Modules/04. Inheritance/student.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 15 July 2018 - My/01. Notes/Notes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="94" column="26" lean-forward="true" selection-start-line="94" selection-start-column="26" selection-end-line="94" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 15 July 2018 - My/02. Calculator Class/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="78" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 15 July 2018 - My/04. Online Shop/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <marker date="1531689896627" expanded="true" signature="115:958" ph="..." />
+            <marker date="1531689896627" expanded="true" signature="650:664" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 15 July 2018 - My/03. Book Collection/Book Collection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="1" lean-forward="false" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
           <folding />
         </state>
       </provider>
