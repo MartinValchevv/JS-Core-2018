@@ -146,7 +146,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exam - 5 Sept 2017/02. String Builder/unitTests.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
@@ -233,7 +233,7 @@
       <workItem from="1531401742482" duration="11054000" />
       <workItem from="1531554309262" duration="13749000" />
       <workItem from="1531633742670" duration="21429000" />
-      <workItem from="1531663739372" duration="16643000" />
+      <workItem from="1531663739372" duration="16775000" />
     </task>
     <servers />
   </component>
@@ -270,7 +270,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189611000" />
+    <option name="totallyTimeSpent" value="189743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />

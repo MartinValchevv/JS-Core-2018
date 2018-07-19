@@ -1,0 +1,10 @@
+{
+  "book1": {
+    "author": "Ivan Vazov",
+    "title": "Podigoto"
+  },
+  "book2": {
+    "author": "Nakov",
+    "title": "Java"
+  }
+}

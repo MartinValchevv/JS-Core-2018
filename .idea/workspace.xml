@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6bd72b1-016c-429b-ba0c-912c564c6175" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Collect List.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Colorize Table.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Countdown.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Extract Parenthesis.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Show More.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Sum Numbers.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Sum Table.html" />
-      <change beforePath="$PROJECT_DIR$/JS Fundamentals/.idea/workspace.xml" afterPath="$PROJECT_DIR$/JS Fundamentals/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JS Applications/01.REST Services/01.GitHub Repos for User testnakov.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JS Applications/01.REST Services/02.GitHubLabels Issue1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JS Applications/01.REST Services/03.GitHub Create Issue.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JS Applications/01.REST Services/04.Firebase All Books.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JS Applications/01.REST Services/05.Firebase Get Book 1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JS Applications/01.REST Services/06.Firebase Create Book.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JS Applications/01.REST Services/07.Firebase Patch Book 7.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JS Applications/01.REST Services/08.Firebase Change Book 7 Author.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JS Applications/01.REST Services/09.Kinvey Handshake.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JS Applications/01.REST Services/10.Kinvey All Posts.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JS Applications/01.REST Services/11.Kinvey Create New Post.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JS Applications/01.REST Services/12.Kinvey Delete a Post.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JS Applications/01.REST Services/13.Kinvey Edit a Post.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/JS Applications/01.REST Services/14.Kinvey Login.json" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/JS Advanced/.idea/workspace.xml" afterPath="$PROJECT_DIR$/JS Advanced/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,87 +30,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Sum Numbers.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Sum Numbers.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="15" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Show More.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Show More.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Collect List.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Collect List.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Colorize Table.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Colorize Table.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="16" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Countdown.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Countdown.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Extract Parenthesis.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Extract Parenthesis.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sum Table.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Sum Table.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
@@ -120,6 +53,21 @@
         <option value="$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Countdown.html" />
         <option value="$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Extract Parenthesis.html" />
         <option value="$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Sum Table.html" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/GitHubLabels Issue1.json" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/GitHub Repos for User testnakov.json" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/GitHub Create Issue.json" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/04.Firebase All Books.json" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/05.Firebase Get Book 1.json" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/06.Firebase Create Book.json" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/07.Firebase Patch Book 7.json" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/08.Firebase Change Book 7 Author.json" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/09.Kinvey Handshake.json" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/10.Kinvey All Posts.json" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/01.GitHub Repos for User testnakov.json" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/11.Kinvey Create New Post.json" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/12.Kinvey Delete a Post.json" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/13.Kinvey Edit a Post.json" />
+        <option value="$PROJECT_DIR$/JS Applications/01.REST Services/14.Kinvey Login.json" />
       </list>
     </option>
   </component>
@@ -128,6 +76,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/JS Advanced/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -151,7 +102,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,18 +112,13 @@
             <path>
               <item name="JS-Core-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Core-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Core-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Document Object Model - Lab" type="462c0819:PsiDirectoryNode" />
+              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,33 +153,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529089649807</updated>
-      <workItem from="1529089652088" duration="3391000" />
+      <workItem from="1529089652088" duration="3995000" />
+      <workItem from="1532003058115" duration="7906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3391000" />
+    <option name="totallyTimeSpent" value="11901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -295,7 +240,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Extract Parenthesis.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
+        <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
@@ -303,8 +248,188 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Sum Table.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="459">
           <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Sum Numbers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Show More.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Collect List.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Countdown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Extract Parenthesis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Sum Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Advanced/Document Object Model - Lab/Colorize Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="16" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/02.GitHubLabels Issue1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/03.GitHub Create Issue.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/04.Firebase All Books.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/05.Firebase Get Book 1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/06.Firebase Create Book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/07.Firebase Patch Book 7.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/08.Firebase Change Book 7 Author.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/09.Kinvey Handshake.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/01.GitHub Repos for User testnakov.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="441" column="1" lean-forward="false" selection-start-line="441" selection-start-column="1" selection-end-line="441" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/10.Kinvey All Posts.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/11.Kinvey Create New Post.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/12.Kinvey Delete a Post.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/13.Kinvey Edit a Post.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS Applications/01.REST Services/14.Kinvey Login.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding />
         </state>
       </provider>
