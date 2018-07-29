@@ -125,11 +125,6 @@
               <item name="JS Applications" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JS Applications" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
-              <item name="09.Exercise - Templating" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -194,12 +189,12 @@
       <workItem from="1532518806894" duration="14158000" />
       <workItem from="1532694618164" duration="27873000" />
       <workItem from="1532890128368" duration="5036000" />
-      <workItem from="1532899571521" duration="5713000" />
+      <workItem from="1532899571521" duration="5765000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93857000" />
+    <option name="totallyTimeSpent" value="93909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
