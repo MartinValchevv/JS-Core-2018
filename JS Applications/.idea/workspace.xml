@@ -13,66 +13,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1062">
-              <caret line="60" column="51" lean-forward="true" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="51" />
+            <state relative-caret-position="18">
+              <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="renderData.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/renderData.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-              <folding>
-                <marker date="1533723461657" expanded="true" signature="2527:2619" ph="..." />
-                <marker date="1533723461657" expanded="true" signature="2637:2721" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/app.js">
+        <entry file="file://$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="buttonsEvents.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/buttonsEvents.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="56" column="79" lean-forward="false" selection-start-line="56" selection-start-column="79" selection-end-line="56" selection-end-column="79" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="display.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/display.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="100" column="88" lean-forward="false" selection-start-line="100" selection-start-column="88" selection-end-line="100" selection-end-column="88" />
-              <folding />
+            <state relative-caret-position="90">
+              <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+              <folding>
+                <marker date="1533915969337" expanded="true" signature="5688:5696" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,18 +56,13 @@
       <find>secondaryButton</find>
       <find>viewDetailsAd</find>
       <find>info</find>
+      <find>receiptId</find>
+      <find>all</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/07.Exercise - Single page application/Prodavachnik/scripts/prodavachnik.js" />
-        <option value="$PROJECT_DIR$/08.Templating/Contact Book/index.html" />
-        <option value="$PROJECT_DIR$/08.Templating/Contact Book/template/contacts.hbs" />
-        <option value="$PROJECT_DIR$/08.Templating/Contact Book/template/details.hbs" />
-        <option value="$PROJECT_DIR$/08.Templating/Contact Book/style/contact.css" />
-        <option value="$PROJECT_DIR$/08.Templating/Contact Book/app.js" />
-        <option value="$PROJECT_DIR$/09.Exercise - Templating/01.List Towns/towns.js" />
         <option value="$PROJECT_DIR$/09.Exercise - Templating/01.List Towns/listtown.html" />
         <option value="$PROJECT_DIR$/09.Exercise - Templating/02.HTTP Status Cats/template/catShows.hbs" />
         <option value="$PROJECT_DIR$/09.Exercise - Templating/02.HTTP Status Cats/template.js" />
@@ -153,6 +107,13 @@
         <option value="$PROJECT_DIR$/Exam - 8 May 2018/index.html" />
         <option value="$PROJECT_DIR$/Exam - 8 May 2018/static/js/display.js" />
         <option value="$PROJECT_DIR$/Exam - 8 May 2018/static/js/buttonsEvents.js" />
+        <option value="$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/package.json" />
+        <option value="$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/notifications.js" />
+        <option value="$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/displayElement.js" />
+        <option value="$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/attachButtonEvents.js" />
+        <option value="$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/kinveyReq.js" />
+        <option value="$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/index.html" />
+        <option value="$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/app.js" />
       </list>
     </option>
   </component>
@@ -177,6 +138,7 @@
     <handled-path value="$PROJECT_DIR$/12.JS Tools/Electron - exercise/node_modules" />
     <handled-path value="$PROJECT_DIR$/12.JS Tools/Lodash - exercise/node_modules" />
     <handled-path value="$PROJECT_DIR$/12.JS Tools/Webpack - exercise/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/node_modules" />
     <handled-path value="$PROJECT_DIR$/Exam - 8 May 2018/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
@@ -202,7 +164,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,10 +171,21 @@
               <item name="JS Applications" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JS Applications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
+              <item name="06.Single page application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Applications" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Applications" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam - 15 April 2018" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,15 +197,15 @@
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User.DESKTOP-NSUD2PN\WebstormProjects\JS-Core-2018\JS Applications\10.Routing and Architecture\Contact Book\js" />
+      <recent name="C:\Users\User.DESKTOP-NSUD2PN\WebstormProjects\JS-Core-2018\JS Applications\06.Single page application\Book Library" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User.DESKTOP-NSUD2PN\WebstormProjects\JS-Core-2018\JS Applications\12.JS Tools\Electron - exercise" />
       <recent name="C:\Users\User.DESKTOP-NSUD2PN\WebstormProjects\JS-Core-2018\JS Applications\12.JS Tools\Webpack - exercise" />
       <recent name="C:\Users\User.DESKTOP-NSUD2PN\WebstormProjects\JS-Core-2018\JS Applications\12.JS Tools" />
       <recent name="C:\Users\User.DESKTOP-NSUD2PN\WebstormProjects\JS-Core-2018\JS Applications\10.Routing and Architecture\Contact Book" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User.DESKTOP-NSUD2PN\WebstormProjects\JS-Core-2018\JS Applications\10.Routing and Architecture\Contact Book\js" />
-      <recent name="C:\Users\User.DESKTOP-NSUD2PN\WebstormProjects\JS-Core-2018\JS Applications\06.Single page application\Book Library" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -298,12 +270,14 @@
       <workItem from="1533411134090" duration="3843000" />
       <workItem from="1533415946952" duration="600000" />
       <workItem from="1533566847452" duration="503000" />
-      <workItem from="1533704788342" duration="11219000" />
+      <workItem from="1533704788342" duration="24807000" />
+      <workItem from="1533908020663" duration="7607000" />
+      <workItem from="1533932762413" duration="112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133036000" />
+    <option name="totallyTimeSpent" value="154343000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -312,7 +286,6 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -324,6 +297,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -359,22 +333,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/12.JS Tools/Prodavachnik Build/scripts/prodavachnik.js" />
-    <entry file="file://$PROJECT_DIR$/12.JS Tools/Prodavachnik Build/scripts/events.js" />
-    <entry file="file://$PROJECT_DIR$/12.JS Tools/Prodavachnik Build/scripts/display.js" />
-    <entry file="file://$PROJECT_DIR$/12.JS Tools/Prodavachnik Build/webpack.config.js" />
-    <entry file="file://$PROJECT_DIR$/12.JS Tools/Webpack - exercise/package.json" />
-    <entry file="file://$PROJECT_DIR$/12.JS Tools/Webpack - exercise/cats.html" />
-    <entry file="file://$PROJECT_DIR$/12.JS Tools/Webpack - exercise/catSeeder.js" />
-    <entry file="file://$PROJECT_DIR$/12.JS Tools/Webpack - exercise/dist/bundle.js" />
-    <entry file="file://$PROJECT_DIR$/12.JS Tools/Webpack - exercise/template.js" />
-    <entry file="file://$PROJECT_DIR$/12.JS Tools/Webpack - exercise/dist/bundle.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12.JS Tools/Webpack - exercise/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -469,7 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="71" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="71" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -477,7 +434,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -485,47 +441,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.Routing and Architecture/Contact Book/js/controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="83" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Routing and Architecture/Contact Book/js/controller.js" />
     <entry file="file://$PROJECT_DIR$/06.Single page application/Book Library/scripts/displayElements.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-88">
           <caret line="25" column="12" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="55" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06.Single page application/Book Library/scripts/crudOperations.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/events.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/events.js" />
     <entry file="file://$PROJECT_DIR$/06.Single page application/Book Library/scripts/attachEvents.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -533,23 +464,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.Routing and Architecture/Contact Book/js/attachEvents.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/10.Routing and Architecture/Contact Book/js/attachEvents.js" />
     <entry file="file://$PROJECT_DIR$/10.Routing and Architecture/Contact Book/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2088">
           <caret line="116" column="22" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="120" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -557,7 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -565,55 +486,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/templates/login.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/start.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/templates/login.hbs" />
+    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/start.js" />
     <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/notifications.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1062">
-          <caret line="60" column="51" lean-forward="true" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -621,33 +502,130 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <marker date="1533723461657" expanded="true" signature="2527:2619" ph="..." />
-            <marker date="1533723461657" expanded="true" signature="2637:2721" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/controller.js">
+    <entry file="file://$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/style/notifications.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="100" column="88" lean-forward="false" selection-start-line="100" selection-start-column="88" selection-end-line="100" selection-end-column="88" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/display.js">
+    <entry file="file://$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="71" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/notifications.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/notifications.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/buttonsEvents.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="56" column="79" lean-forward="false" selection-start-line="56" selection-start-column="79" selection-end-line="56" selection-end-column="79" />
+        <state relative-caret-position="182">
+          <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/display.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Exercise - Single page application/Prodavachnik/scripts/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="160" column="29" lean-forward="true" selection-start-line="152" selection-start-column="1" selection-end-line="160" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 8 May 2018/static/js/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="57" column="21" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Exercise - Single page application/Prodavachnik/scripts/events.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/displayElement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Single page application/Book Library/scripts/crudOperations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-774">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/kinveyReq.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6714">
+          <caret line="373" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="385" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/attachButtonEvents.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="46" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <folding>
+            <marker date="1533915969337" expanded="true" signature="5688:5696" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 15 April 2018/Point of Sale/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding />
         </state>
       </provider>
