@@ -1,0 +1,6 @@
+$(() => {
+    showView()
+    showHideMenuLinks()
+    attachAllEvents()
+    attachBoxesEvents()
+})
