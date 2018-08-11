@@ -22,10 +22,10 @@ function loginUser() {
             }).catch(handleAjaxError)
 
         } else {
-            showError('A password should be at least 6 characters long and should contain only english alphabet letters and digits.')
+            showError('A password is empty.')
         }
     } else {
-        showError('A username should be at least 5 characters long and should contain only english alphabet letters.')
+        showError('A username should be at least 5 characters long.')
     }
 }
 
@@ -53,10 +53,10 @@ function registerUser() {
                 showError('Passwords do not match.')
             }
         } else {
-            showError('A password should be at least 6 characters long and should contain only english alphabet letters and digits.')
+            showError('A password is empty.')
         }
     } else {
-        showError('A username should be at least 5 characters long and should contain only english alphabet letters.')
+        showError('A username should be at least 5 characters long.')
     }
 
 }
