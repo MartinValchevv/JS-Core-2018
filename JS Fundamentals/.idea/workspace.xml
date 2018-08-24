@@ -26,10 +26,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Strings and RegExp - Lab/Expression Split.js" />
-        <option value="$PROJECT_DIR$/Strings and RegExp - Lab/Match the Dates.js" />
-        <option value="$PROJECT_DIR$/Strings and RegExp - Lab/Employee Data.js" />
-        <option value="$PROJECT_DIR$/Strings and RegExp - Lab/Form Filler.js" />
         <option value="$PROJECT_DIR$/Strings and RegExp - Lab/Match Multiplication.js" />
         <option value="$PROJECT_DIR$/Strings and RegExp/Split a String with a Delimiter.js" />
         <option value="$PROJECT_DIR$/Strings and RegExp/Repeat a String N Times.js" />
@@ -77,6 +73,10 @@
         <option value="$PROJECT_DIR$/Exam - 11 Feb 2018/02. Air Pollution.js" />
         <option value="$PROJECT_DIR$/Exam - 11 Feb 2018/03. Survey Parser.js" />
         <option value="$PROJECT_DIR$/Exam - 11 Feb 2018/04. Game of Epicness.js" />
+        <option value="$PROJECT_DIR$/Exam - 3 Sept 2017/01. The Hungry Programmer.js" />
+        <option value="$PROJECT_DIR$/Exam - 3 Sept 2017/02. Expedition.js" />
+        <option value="$PROJECT_DIR$/Exam - 3 Sept 2017/03. Lost.js" />
+        <option value="$PROJECT_DIR$/Exam - 3 Sept 2017/04. Rest House.js" />
       </list>
     </option>
   </component>
@@ -86,7 +86,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="237" />
     <option name="y" value="63" />
     <option name="width" value="1346" />
@@ -118,7 +118,7 @@
             <path>
               <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam - 11 Feb 2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam - 3 Sept 2017" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,26 +146,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.02. Air Pollution.js">
+  <component name="RunManager" selected="Node.js.04. Rest House.js">
     <configuration name="01. Bitcoin Mining.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="01. Bitcoin Mining.js" working-dir="$PROJECT_DIR$/Exam - 11 Feb 2018" />
+    <configuration name="01. The Hungry Programmer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="01. The Hungry Programmer.js" working-dir="$PROJECT_DIR$/Exam - 3 Sept 2017" />
     <configuration name="02. Air Pollution.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="02. Air Pollution.js" working-dir="$PROJECT_DIR$/Exam - 11 Feb 2018" />
-    <configuration name="1.Travel Plans.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="1.Travel Plans.js" working-dir="$PROJECT_DIR$/Exam - 10 June 2018" />
-    <configuration name="2.Travel Investigation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="2.Travel Investigation.js" working-dir="$PROJECT_DIR$/Exam - 10 June 2018" />
-    <configuration name="3. Minke, Decode.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="3. Minke, Decode.js" working-dir="$PROJECT_DIR$/Exam - 10 June 2018" />
+    <configuration name="02. Expedition.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="02. Expedition.js" working-dir="$PROJECT_DIR$/Exam - 3 Sept 2017" />
+    <configuration name="04. Rest House.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="04. Rest House.js" working-dir="$PROJECT_DIR$/Exam - 3 Sept 2017" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.1.Travel Plans.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.2.Travel Investigation.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.3. Minke, Decode.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.01. Bitcoin Mining.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.02. Air Pollution.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.01. Bitcoin Mining.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.02. Air Pollution.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.01. The Hungry Programmer.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.02. Expedition.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.04. Rest House.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.02. Air Pollution.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.01. Bitcoin Mining.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.1.Travel Plans.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.3. Minke, Decode.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.2.Travel Investigation.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.04. Rest House.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.02. Expedition.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.01. The Hungry Programmer.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.02. Air Pollution.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.01. Bitcoin Mining.js" />
       </list>
     </recent_temporary>
   </component>
@@ -195,22 +195,24 @@
       <workItem from="1528635006647" duration="16912000" />
       <workItem from="1528664037982" duration="10398000" />
       <workItem from="1528754532893" duration="938000" />
-      <workItem from="1535018289381" duration="6755000" />
+      <workItem from="1535018289381" duration="6939000" />
+      <workItem from="1535027143936" duration="62000" />
+      <workItem from="1535134782589" duration="6402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116507000" />
+    <option name="totallyTimeSpent" value="123155000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29769737" sideWeight="0.5089286" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29769737" sideWeight="0.49107143" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25164473" sideWeight="0.49107143" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -244,34 +246,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Strings and RegExp - Lab/Email Validation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings and RegExp/Split a String with a Delimiter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings and RegExp/Repeat a String N Times.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings and RegExp/Starts With.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="34" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Strings and RegExp/Ends With.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -564,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -572,7 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
           <caret line="46" column="56" lean-forward="true" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -580,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1008">
           <caret line="56" column="1" lean-forward="false" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -588,6 +559,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1908">
           <caret line="106" column="1" lean-forward="false" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 3 Sept 2017/01. The Hungry Programmer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="76" column="14" lean-forward="true" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 3 Sept 2017/02. Expedition.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 3 Sept 2017/03. Lost.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exam - 3 Sept 2017/04. Rest House.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1062">
+          <caret line="59" column="59" lean-forward="true" selection-start-line="59" selection-start-column="59" selection-end-line="59" selection-end-column="59" />
           <folding />
         </state>
       </provider>
